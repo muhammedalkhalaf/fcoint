@@ -10,7 +10,7 @@ Description: Implements four Fourier-based cointegration tests that allow for
     (FADL) of Banerjee, Arcabic and Lee (2017)
     <doi:10.1016/j.econmod.2016.11.004>, the Fourier Engle-Granger tests
     (FEG and FEG2), and the Tsong, Lee, Tsai and Hu (2016)
-    <doi:10.1007/s00181-015-0921-5> test. Lag and frequency selection is
+    <doi:10.1007/s00181-015-1028-6> test. Lag and frequency selection is
     performed via AIC or BIC. Critical values are included for 1, 5, and 10
     percent significance levels.
 Author: Muhammad Alkhalaf [aut, cre, cph]

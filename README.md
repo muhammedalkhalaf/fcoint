@@ -52,7 +52,7 @@ print(res_all)
 
 Banerjee, P., Arcabic, V., & Lee, H. (2017). Fourier ADL cointegration test to approximate smooth breaks with new evidence from crude oil market. *Economic Modelling*, 67, 114–124. <https://doi.org/10.1016/j.econmod.2016.11.004>
 
-Tsong, C.-C., Lee, C.-F., Tsai, L.-J., & Hu, T.-C. (2016). The Fourier approximation and testing for the null of cointegration. *Empirical Economics*, 51(3), 1085–1113. <https://doi.org/10.1007/s00181-015-0921-5>
+Tsong, C.-C., Lee, C.-F., Tsai, L.-J., & Hu, T.-C. (2016). The Fourier approximation and testing for the null of cointegration. *Empirical Economics*, 51(3), 1085–1113. <https://doi.org/10.1007/s00181-015-1028-6>
 
 ## Author
 

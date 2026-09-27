@@ -79,5 +79,5 @@ to approximate smooth breaks with new evidence from crude oil market.
 Tsong, C.-C., Lee, C.-F., Tsai, L.-J., & Hu, T.-C. (2016). The Fourier
 approximation and testing for the null of cointegration.
 \emph{Empirical Economics}, 51(3), 1085--1113.
-\doi{10.1007/s00181-015-0921-5}
+\doi{10.1007/s00181-015-1028-6}
 }
