@@ -8,7 +8,7 @@ Authors@R: person("Muhammad", "Alkhalaf", email = "muhammedalkhalaf@gmail.com",
 Description: Implements four Fourier-based cointegration tests that allow for
     smooth structural breaks via trigonometric terms: the Fourier ADL test
     (FADL) of Banerjee, Arcabic and Lee (2017)
-    <doi:10.1016/j.econmod.2017.03.004>, the Fourier Engle-Granger tests
+    <doi:10.1016/j.econmod.2016.11.004>, the Fourier Engle-Granger tests
     (FEG and FEG2), and the Tsong, Lee, Tsai and Hu (2016)
     <doi:10.1007/s00181-015-0921-5> test. Lag and frequency selection is
     performed via AIC or BIC. Critical values are included for 1, 5, and 10
