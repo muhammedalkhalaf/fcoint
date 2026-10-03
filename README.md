@@ -1,8 +1,17 @@
 # fcoint
 
+> **This repository is superseded and no longer maintained.**
+> At the request of the CRAN team, this package was merged into the CRAN package
+> [cointests](https://cran.r-project.org/package=cointests). The function `fcoint()` is maintained there,
+> with corrections that are not in this repository. The code here is an older version
+> and should not be used for new work.
+>
+> ```r
+> install.packages("cointests")
+> ```
+
 **Fourier Cointegration Tests for Time Series with Smooth Structural Breaks**
 
-[![CRAN status](https://www.r-pkg.org/badges/version/fcoint)](https://CRAN.R-project.org/package=fcoint)
 [![License: GPL-3](https://img.shields.io/badge/License-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Overview
@@ -11,20 +20,15 @@
 
 | Test | Reference |
 |------|-----------|
-| **FADL** — Fourier ADL | Banerjee, Arcabic & Lee (2017) |
-| **FEG** — Fourier Engle-Granger | Banerjee & Lee |
-| **FEG2** — FEG with R² correction | Banerjee & Lee |
-| **Tsong** — DOLS-based | Tsong, Lee, Tsai & Hu (2016) |
+| **FADL**: Fourier ADL | Banerjee, Arcabic and Lee (2017) |
+| **FEG**: Fourier Engle-Granger | Banerjee and Lee |
+| **FEG2**: FEG with R² correction | Banerjee and Lee |
+| **Tsong**: DOLS-based | Tsong, Lee, Tsai and Hu (2016) |
 
 ## Installation
 
 ```r
-install.packages("fcoint")
-```
-
-Or from GitHub:
-
-```r
+# Old version, GitHub only (see the notice at the top of this page)
 # install.packages("remotes")
 remotes::install_github("muhammedalkhalaf/fcoint")
 ```
@@ -50,9 +54,9 @@ print(res_all)
 
 ## References
 
-Banerjee, P., Arcabic, V., & Lee, H. (2017). Fourier ADL cointegration test to approximate smooth breaks with new evidence from crude oil market. *Economic Modelling*, 67, 114–124. <https://doi.org/10.1016/j.econmod.2016.11.004>
+Banerjee, P., Arcabic, V. and Lee, H. (2017). Fourier ADL cointegration test to approximate smooth breaks with new evidence from crude oil market. *Economic Modelling*, 67, 114–124. <https://doi.org/10.1016/j.econmod.2016.11.004>
 
-Tsong, C.-C., Lee, C.-F., Tsai, L.-J., & Hu, T.-C. (2016). The Fourier approximation and testing for the null of cointegration. *Empirical Economics*, 51(3), 1085–1113. <https://doi.org/10.1007/s00181-015-1028-6>
+Tsong, C.-C., Lee, C.-F., Tsai, L.-J. and Hu, T.-C. (2016). The Fourier approximation and testing for the null of cointegration. *Empirical Economics*, 51(3), 1085–1113. <https://doi.org/10.1007/s00181-015-1028-6>
 
 ## Author
 
